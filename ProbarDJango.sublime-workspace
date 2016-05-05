@@ -1,0 +1,167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 244.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/tablaContratos 2016 Suministros.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/tablaContratos 2016 Prestación Servicios.html",
+		"/E/probarDJango/src/Boletin/models.py",
+		"/E/probarDJango/src/Boletin/admin.py",
+		"/E/probarDJango/src/ProbarDJango/settings.py",
+		"/E/probarDJango/src/db.sqlite3",
+		"/E/probarDJango/src/manage.py",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/index.html",
+		"/D/home/Hernan/WorkSpace/PhoneGap/AppPrueba/AppPrueba/www/index.html",
+		"/C/Users/hernan/Desktop/ojala diseño email con html/Archivos Base/4/Inicio.html",
+		"/C/Users/hernan/Desktop/ojala diseño email con html/Archivos Base/4/Plantilla.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/horarios.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/Guias y Protocolos.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/Botones.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/estados financieros.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/Otras.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/paginasAmigas.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/Sedes Actividades PyP.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/tablaContratos.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/tablaContratosSuministros.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/tablaContratos2.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/Witget.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/Contacto.html",
+		"/D/home/Hernan/Documentos/Sitio ESE Ebejico WP/Codigos/Fisioterapia.html"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	  \n",
+			"Ssitema de Acceso a la Información Pública",
+			"contrat",
+			"antico",
+			"-2016"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Sistema de Acceso a la Información Pública",
+			"-2016-CS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
